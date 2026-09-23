@@ -1,0 +1,6 @@
+{
+  "name": "KINETIX Athletic Club",
+  "description": "High-performance fitness club landing page featuring interactive class schedules, certified trainer profiles, membership signup flow, and dark mode support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
